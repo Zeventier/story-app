@@ -35,7 +35,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAAR1lXtg8eRMNlxCfFlniDgsrG2nDc2BU" />
+            android:value="API_KEY" />
 
         <activity
             android:name=".view.upload.LocationActivity"
