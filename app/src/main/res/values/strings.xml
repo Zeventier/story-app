@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="halaman_login">Halaman Login</string>
+    <string name="login_message">Silakan masuk menggunakan akun kamu</string>
+    <string name="register">Register</string>
+    <string name="halaman_register">Halaman Register</string>
+    <string name="nama">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="add_story">Add Story</string>
+    <string name="retry">Coba lagi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="open_map">Open Map</string>
+    <string name="location">Location</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="latitude">Latitude</string>
+    <string name="longtitude">Longtitude</string>
+</resources>
